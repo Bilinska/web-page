@@ -1,0 +1,23 @@
+p {
+  color: black;
+  background: rgb(104, 231, 104);
+  font-size: 14pt;
+  font-style: italic;
+}
+
+#first_box {
+  width: 100px;
+  height: 50px;
+  background: rgb(21, 121, 202);
+  padding: 25px;
+  border: 5px solid rgb(204, 178, 28);
+}
+.second_boxes {
+  width: 80px;
+  height: 80px;
+  background: rgb(160, 21, 202);
+  margin: 15px;
+  padding: 20px;
+  border: 2px solid red;
+  float: left;
+}
